@@ -33,6 +33,13 @@ function thirdLanguage() {
 thirdLanguage();
 ```
 
+```py
+amount = "just a small bit"
+language = "python
+
+print(f"{amount} of {language}")
+```
+
 putting that aside, i mainly hold this account as a way to educate myself about the sort of flow that this system provides, so don't expect much as far as activity goes.
 
 however, this doesn't mean i'm that far out of reach. feel free to extend a hand and ask me about stuff. i probably won't know what you're talking about, but that's okay.
